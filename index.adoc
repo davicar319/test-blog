@@ -1,0 +1,15 @@
+Class Notes for Reactive Spring 
+===============================
+Dave Carlson <davicar319@acm.org>
+
+
+O'Reilly with Ken Kousen
+
+Spring uses project reactor.io 
+* Can be used outside of Spring.
+* Spring can also use JavaRx
+
+Reactive Spring involves creating a lot of complexity, Ken thinks that this is often not worth 
+it. It is way more efficient, but way more complex.
+
+No one would create a new Spring application without using Spring Boot. Nor would anyone take a legacy application and rewrite to to Spring Boot.
